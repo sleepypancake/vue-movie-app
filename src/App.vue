@@ -46,4 +46,17 @@ header {
     color: #42B883;
   }
 }
+
+@media screen and (min-width: 1280px){
+    .wrapper {
+    margin: 0 20%;
+  }
+}
+
+@media (min-width: 479px) and (max-width: 1279px){
+    .wrapper {
+    margin: 0 10%;
+  }
+}
+
 </style>
